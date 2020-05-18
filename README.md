@@ -1,1 +1,1 @@
-# related
+所选数据集为Oakland Crime Statistics 2011 to 2016数据集，pre为对数据集进行处理的代码，apriori为关联规则挖掘并可视化的代码，通过path指定文件路径，通过mark指定要分析的列实现关联规则的发现与分析
